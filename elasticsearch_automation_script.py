@@ -3,7 +3,7 @@
 #########################################################################################################################################
 
 		Program Title: Elasticsearch Automation Script
-		Creator: James A. Burke - PwC Senior Associate - FTS - Tyson's Corner - McLean VA
+		Author:      jburke007
 
 		Description: This automation script takes an input file that contains the schema of the data that you want to load into elasticsearch
 		and then automatically builds and loads the required mapping index into elasticsearch. It also creates a hard copy of the map index
