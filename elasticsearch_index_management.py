@@ -5,7 +5,6 @@
 # Author:      jburke007
 #
 # Copyright:   (c) jburke007 2014
-# Licence:     <your licence>
 #-------------------------------------------------------------------------------
 import requests
 
